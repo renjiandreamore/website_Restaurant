@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ChengduGourmet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ChengduGourmet.war">
+      <element id="artifact" artifact-name="ChengduGourmet:war exploded" />
+    </root>
+  </artifact>
+</component>
