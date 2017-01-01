@@ -5885,6 +5885,7 @@ button.close {
     bottom: 20px;
   }
 }
+<<<<<<< HEAD
 .clearfix {
 
   *zoom: 1;
@@ -5913,6 +5914,8 @@ button.close {
 
 }
 
+=======
+>>>>>>> c2ca7a540830cbae47c7cf6b72047f415405947c
 .clearfix:before,
 .clearfix:after,
 .dl-horizontal dd:before,
